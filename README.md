@@ -7,6 +7,6 @@
 ## Authors
 
 - Dylan Penney    [@DylanPenney](https://www.github.com/DylanPenney)
-- Ryan Locke      [@RyanLockeQr](https://github.com/RyanLockeQr)
+- Ryan Lock       [@RyanLockQr](https://github.com/RyanLockQr)
 - Hogan Ma        [@HoganMa23](https://github.com/HoganMa23)
 - Omung Bhasin    [@Omung789](https://github.com/omung789)
