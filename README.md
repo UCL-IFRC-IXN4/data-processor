@@ -1,5 +1,15 @@
 # data-processor
 
+## Installation
+
+git clone https://github.com/UCL-IFRC-IXN4/data-processor.git
+
+## Requirements
+
+## Usage
+
+python3 main.py
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
